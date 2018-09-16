@@ -4,7 +4,6 @@
         <file>qml/Eye.qml</file>
         <file>qml/Hand.qml</file>
         <file>qml/Other.qml</file>
-        <file>qml/Lamp.qml</file>
         <file>qml/Other02.qml</file>
         <file>qml/Face.qml</file>
         <file>qml/Cylinder001.qml</file>
@@ -205,7 +204,5 @@
         <file>qml/matarial/Alicia_other.tga</file>
         <file>qml/matarial/Alicia_rod.tga</file>
         <file>qml/matarial/Alicia_wear.tga</file>
-        <file>qml/AliciaMaterials.qml</file>
-        <file>qml/matarial/Alicia_wear.png</file>
     </qresource>
 </RCC>

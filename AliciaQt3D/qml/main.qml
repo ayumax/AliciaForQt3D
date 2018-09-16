@@ -51,11 +51,6 @@ Entity {
         id: _materialCollection
     }
 
-    AliciaMaterials
-    {
-        id: aliciaMat
-    }
-
     QQ2.NumberAnimation {
         id:moveAnimation
         target: aliciaTransform
@@ -65,7 +60,7 @@ Entity {
         to: 359
 
         loops: QQ2.Animation.Infinite
-        running: true
+        running: false
     }
 
 
