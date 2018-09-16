@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/shaders/bodypsd.vert</file>
+        <file>assets/shaders/bodypsd.frag</file>
+        <file>assets/shaders/bodypsd001.vert</file>
+        <file>assets/shaders/bodypsd001.frag</file>
+        <file>assets/shaders/bodypsd002.vert</file>
+        <file>assets/shaders/bodypsd002.frag</file>
+        <file>assets/shaders/eyepsd.vert</file>
+        <file>assets/shaders/eyepsd.frag</file>
+        <file>assets/shaders/facealpha02.vert</file>
+        <file>assets/shaders/facealpha02.frag</file>
+        <file>assets/shaders/facepsd.vert</file>
+        <file>assets/shaders/facepsd.frag</file>
+        <file>assets/shaders/facepsd001.vert</file>
+        <file>assets/shaders/facepsd001.frag</file>
+        <file>assets/shaders/facepsd002.vert</file>
+        <file>assets/shaders/facepsd002.frag</file>
+        <file>assets/shaders/hairalpha.vert</file>
+        <file>assets/shaders/hairalpha.frag</file>
+        <file>assets/shaders/hairalpha02.vert</file>
+        <file>assets/shaders/hairalpha02.frag</file>
+        <file>assets/shaders/hairpsd.vert</file>
+        <file>assets/shaders/hairpsd.frag</file>
+        <file>assets/shaders/hairpsd001.vert</file>
+        <file>assets/shaders/hairpsd001.frag</file>
+        <file>assets/shaders/material.vert</file>
+        <file>assets/shaders/material.frag</file>
+        <file>assets/shaders/otheralpha01.vert</file>
+        <file>assets/shaders/otheralpha01.frag</file>
+        <file>assets/shaders/otheralpha02.vert</file>
+        <file>assets/shaders/otheralpha02.frag</file>
+        <file>assets/shaders/otheralpha03.vert</file>
+        <file>assets/shaders/otheralpha03.frag</file>
+        <file>assets/shaders/otheralpha04.vert</file>
+        <file>assets/shaders/otheralpha04.frag</file>
+        <file>assets/shaders/otheralpha05.vert</file>
+        <file>assets/shaders/otheralpha05.frag</file>
+        <file>assets/shaders/otheralpha07.vert</file>
+        <file>assets/shaders/otheralpha07.frag</file>
+        <file>assets/shaders/wearpsd.vert</file>
+        <file>assets/shaders/wearpsd.frag</file>
+   </qresource>
+</RCC>

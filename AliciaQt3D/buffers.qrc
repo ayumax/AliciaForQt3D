@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/binaries/untitled008.vertices</file>
+        <file>assets/binaries/untitled008.indices</file>
+        <file>assets/binaries/untitled002.vertices</file>
+        <file>assets/binaries/untitled002.indices</file>
+        <file>assets/binaries/untitled001.vertices</file>
+        <file>assets/binaries/untitled001.indices</file>
+        <file>assets/binaries/untitled004.vertices</file>
+        <file>assets/binaries/untitled004.indices</file>
+        <file>assets/binaries/untitled006.vertices</file>
+        <file>assets/binaries/untitled006.indices</file>
+        <file>assets/binaries/untitled.vertices</file>
+        <file>assets/binaries/untitled.indices</file>
+        <file>assets/binaries/untitled005.vertices</file>
+        <file>assets/binaries/untitled005.indices</file>
+        <file>assets/binaries/untitled003.vertices</file>
+        <file>assets/binaries/untitled003.indices</file>
+   </qresource>
+</RCC>
